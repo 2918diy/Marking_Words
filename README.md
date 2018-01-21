@@ -2,7 +2,8 @@
 
 ######因为背单词书实在太枯燥，就想着边读文章边背单词。但是英文原版书里不认识的单词太多，很多并不是常用词汇，所以就想把文章里出现的单词书里的单词出来，方便在一个语境下背诵。
 
-![](https://github.com/2918diy/Marking_Words/blob/master/screenshot_2018_01_21T13_00_37%2B0800.png)
+#####例子：
+![](https://github.com/2918diy/Marking_Words/blob/master/screenshot_2018_01_21T13_00_37%2B0800.jpg)
 
 #####文件素材：
 * 经济学人半年刊中英双语 Epub电子书
